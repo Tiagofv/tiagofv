@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a fullstack PHP Developer, with expertise on Laravel and VueJs! I love solving problems and contributing to open source.
 - 🔭 I’m currently working on Capixabalug as Head tech (www.capixabalug.com.br) and as a consultant on (www.orcaaqui.com.br).
 - 🌱 I’m currently learning Elixir and Golang for high perfomance REST API'S.
 - 👯 I’m looking to collaborate on PHP, VueJs and Elixir projects.
